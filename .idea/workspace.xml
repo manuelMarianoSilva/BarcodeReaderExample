@@ -15,13 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3efa221-4307-4422-91d6-1b73191bb88d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3efa221-4307-4422-91d6-1b73191bb88d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +52,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2031">
-              <caret line="160" column="46" lean-forward="true" selection-start-line="160" selection-start-column="46" selection-end-line="160" selection-end-column="46" />
+            <state relative-caret-position="90">
+              <caret line="46" selection-start-line="46" selection-end-line="344" selection-end-column="5" />
               <folding>
                 <element signature="class#2589:3151" />
                 <element signature="e#3001#3002#0" expanded="true" />
@@ -72,10 +66,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SomeOtherCodeToCheckLater.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3975">
+              <caret line="302" column="9" selection-start-line="4" selection-start-column="2" selection-end-line="302" selection-end-column="9" />
+              <folding>
+                <element signature="class#1115:1677" />
+                <element signature="class#2281:2839" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="someCodeToCheckLater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
+            <state relative-caret-position="740">
               <caret line="389" selection-start-line="389" selection-end-line="389" />
             </state>
           </provider>
@@ -2391,6 +2398,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java" />
       </list>
     </option>
   </component>
@@ -2709,15 +2717,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
+        <state relative-caret-position="740">
           <caret line="389" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3975">
+          <caret line="302" column="9" selection-start-line="4" selection-start-column="2" selection-end-line="302" selection-end-column="9" />
+          <folding>
+            <element signature="class#1115:1677" />
+            <element signature="class#2281:2839" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2031">
-          <caret line="160" column="46" lean-forward="true" selection-start-line="160" selection-start-column="46" selection-end-line="160" selection-end-column="46" />
+        <state relative-caret-position="90">
+          <caret line="46" selection-start-line="46" selection-end-line="344" selection-end-column="5" />
           <folding>
             <element signature="class#2589:3151" />
             <element signature="e#3001#3002#0" expanded="true" />
