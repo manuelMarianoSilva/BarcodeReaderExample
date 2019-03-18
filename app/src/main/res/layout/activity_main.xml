@@ -3,20 +3,27 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextureView
-        android:id="@+id/texture_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+    <SurfaceView
+        android:layout_centerInParent="true"
+        android:id="@+id/preview_panel"
+        android:layout_width="300dp"
+        android:layout_height="300dp" />
 
-    <Button
-        android:id="@+id/read_barcode_button"
-        android:layout_alignParentBottom="true"
-        android:text="read barcode"
+    <TextView
+        android:textSize="20sp"
+        android:layout_below="@+id/preview_panel"
+        android:id="@+id/txtResult"
+        android:layout_marginTop="20dp"
+        android:text="@string/default_text_result"
+        android:textAlignment="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+
 
 </RelativeLayout>

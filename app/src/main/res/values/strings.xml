@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BarcodeReaderExample</string>
+    <string name="default_text_result">Por favor apunte la cámara al código</string>
 </resources>

@@ -15,7 +15,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3efa221-4307-4422-91d6-1b73191bb88d" name="Default" comment="" />
+    <list default="true" id="b3efa221-4307-4422-91d6-1b73191bb88d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +55,10 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="e#720#749#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,38 +66,16 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="46" selection-start-line="46" selection-end-line="344" selection-end-column="5" />
+            <state relative-caret-position="166">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
               <folding>
-                <element signature="class#2589:3151" />
-                <element signature="e#3001#3002#0" expanded="true" />
-                <element signature="e#3037#3038#0" expanded="true" />
-                <element signature="e#2988#3138#0" expanded="true" />
-                <element signature="e#3137#3138#0" expanded="true" />
-                <element signature="class#4268:4766" />
+                <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" />
+                <element signature="class#1319:1710" />
+                <element signature="e#2345#2346#0" expanded="true" />
+                <element signature="e#2396#2397#0" expanded="true" />
+                <element signature="e#3726#3940#0" expanded="true" />
+                <element signature="e#3939#3940#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SomeOtherCodeToCheckLater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3975">
-              <caret line="302" column="9" selection-start-line="4" selection-start-column="2" selection-end-line="302" selection-end-column="9" />
-              <folding>
-                <element signature="class#1115:1677" />
-                <element signature="class#2281:2839" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="someCodeToCheckLater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="389" selection-start-line="389" selection-end-line="389" />
             </state>
           </provider>
         </entry>
@@ -91,29 +83,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CameraDevice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/camera2/CameraDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="1060" column="42" selection-start-line="1060" selection-start-column="42" selection-end-line="1060" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="420">
+              <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -2394,11 +2365,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/SomeOtherCodeToCheckLater.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -2420,33 +2392,6 @@
             <path>
               <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="barcodereaderexample" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="BarcodeReaderExample" type="1abcf292:AndroidViewProjectNode" />
@@ -2594,7 +2539,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" />
@@ -2611,13 +2555,13 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="bottom" id="Build" weight="0.3296582" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39911798" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2642,20 +2586,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java</url>
-          <line>206</line>
+          <line>110</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java</url>
-          <line>79</line>
-          <properties method="onSurfaceTextureSizeChanged">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="7" />
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="app">
@@ -2664,26 +2606,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/hardware/camera2/CameraDevice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -2708,13 +2630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/someCodeToCheckLater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -2733,17 +2648,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#417#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#720#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/example/domiesharpin/barcodereaderexample/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/domiesharpin/barcodereaderexample/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="46" selection-start-line="46" selection-end-line="344" selection-end-column="5" />
+        <state relative-caret-position="166">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
           <folding>
-            <element signature="class#2589:3151" />
-            <element signature="e#3001#3002#0" expanded="true" />
-            <element signature="e#3037#3038#0" expanded="true" />
-            <element signature="e#2988#3138#0" expanded="true" />
-            <element signature="e#3137#3138#0" expanded="true" />
-            <element signature="class#4268:4766" />
+            <element signature="method#onRequestPermissionsResult#0;class#MainActivity#0" />
+            <element signature="class#1319:1710" />
+            <element signature="e#2345#2346#0" expanded="true" />
+            <element signature="e#2396#2397#0" expanded="true" />
+            <element signature="e#3726#3940#0" expanded="true" />
+            <element signature="e#3939#3940#0" expanded="true" />
           </folding>
         </state>
       </provider>
